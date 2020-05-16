@@ -1,5 +1,4 @@
-# CHROMA-8
-A CHIP-8 interpreter based on the Chroma engine.
+![CHROMA-8 Logo](https://i.imgur.com/8lQhfGl.png)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Hacktix/CHROMA-8)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Hacktix/CHROMA-8)
@@ -16,5 +15,5 @@ Video output is handled by the Chroma engine entirely, Audio output uses my [Chr
 All ROMs provided in this repository are sourced from [this repository](https://github.com/dmatlack/chip8/tree/master/roms), which is a collection of Public Domain ROMs, as well as [this](https://github.com/corax89/chip8-test-rom) and [this](https://slack-files.com/T3CH37TNX-F3RF5KT43-0fb93dbd1f) test ROM, the latter of which is documented [here](https://slack-files.com/T3CH37TNX-F3RKEUKL4-b05ab4930d).
 
 ## Screenshots
-![Pong](https://i.imgur.com/DLtf50f.png)
-![Space Invaders](https://i.imgur.com/OI8hpFa.png)
+![Pong](https://i.imgur.com/OoyDyFu.png)
+![Space Invaders](https://i.imgur.com/K5y1vON.png)
